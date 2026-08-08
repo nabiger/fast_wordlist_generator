@@ -13,7 +13,7 @@ Generating millions of string combinations natively in Python can cause high mem
 
 ## ⚙️ Prerequisites
 
-- **Python 3.x**
+- [**Python 3.x**](https://www.python.org/downloads/release/python-3147/)
 - [**C++ Compiler** (e.g., `g++` / MinGW for Windows, or Clang/GCC for macOS and Linux)](https://jmeubank.github.io/tdm-gcc/)
 
 ## 🛠️ Build & Installation
